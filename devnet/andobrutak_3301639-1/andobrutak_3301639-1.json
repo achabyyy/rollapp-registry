@@ -1,8 +1,8 @@
 {
   "chainId": "andobrutak_5501639-1",
   "chainName": "andobrutak_5501639-1",
-  "rpc": "http://froopyland.dymension.xyz/andobrutak/rpc",
-  "rest": "http://froopyland.dymension.xyz/andobrutak/rest",
+  "rpc": "https://froopyland.dymension.xyz/andobrutak_5501639-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/andobrutak_5501639-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,14 +24,14 @@
   },
   "evm": {
     "chainId": "0x53f2c7",
-    "rpc": "http://froopyland.dymension.xyz/andobrutak/evmrpc"
+    "rpc": "https://froopyland.dymension.xyz/andobrutak_5501639-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
   "analytics": true,
   "golberg": true,
-  "availaddress": "5DbuNCJdJjkgZb6pPp7oq2VXkPN9TQGCnbJH2akD5q3sHsqT"
+  "availAddress": "5DbuNCJdJjkgZb6pPp7oq2VXkPN9TQGCnbJH2akD5q3sHsqT",
   "rewards": true,
   "active": true
 }
