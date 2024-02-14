@@ -1,0 +1,37 @@
+{
+  "chainId": "andobrutak_5501639-1",
+  "chainName": "andobrutak_5501639-1",
+  "rpc": "http://froopyland.dymension.xyz/andobrutak/rpc",
+  "rest": "http://froopyland.dymension.xyz/andobrutak/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ando",
+      "baseDenom": "uando",
+      "decimals": 18,
+      "logo": "/logos/andobrutak_5501639-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://faucettdym.vercel.app/",
+  "logo": "/logos/andobrutak_5501639-1.png",
+  "ibc": {
+    "hubChannel": "channel-9606",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x53f2c7",
+    "rpc": "http://froopyland.dymension.xyz/andobrutak/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "golberg": true,
+  "availaddress": "5DbuNCJdJjkgZb6pPp7oq2VXkPN9TQGCnbJH2akD5q3sHsqT"
+  "rewards": true,
+  "active": true
+}
